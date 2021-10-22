@@ -44,6 +44,11 @@ p {
   margin-right: 150px;
 }
 
+ul {
+  line-height: 1.5;
+  margin-right: 150px;
+}
+
 .overview {
   margin-right: 20px;
   font-size: 18px;
@@ -305,6 +310,10 @@ p {
   }
 
   p {
+    margin-right: 40px;
+  }
+
+  ul {
     margin-right: 40px;
   }
 
