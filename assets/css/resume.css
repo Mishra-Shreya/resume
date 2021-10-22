@@ -73,25 +73,6 @@ ul {
   border-radius: 10px
 }
 
-.indexflex {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.template {
-  width: 320px;
-  height: auto;
-}
-
-.bigger {
-  font-size: 100px;
-}
-
-.side {
-  font-size: 60px;
-}
-
 .wrapper {
   background: #ffffff;
   margin: 0 auto;
